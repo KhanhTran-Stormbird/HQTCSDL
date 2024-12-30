@@ -8,7 +8,9 @@ Dự án Quản Lý Kho Hàng cho phép người dùng đăng nhập, đăng ký
 
 - Đăng nhập và đăng ký người dùng
 - Quản lý thông tin kho hàng
-- Hệ thống phân quyền cho người dùng (Admin, Staff, User)
+- Hệ thống phân quyền cho người dùng (Admin, Staff)
+- Quản lý thông tin nhập xuất
+- Xem nhật ký hoạt động
 
 ## Công nghệ sử dụng
 
